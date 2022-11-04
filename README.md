@@ -11,14 +11,13 @@ method provide exact surface wave eignvalues in viscoealstic layered half space.
 Here are some other methods or articles on this topic:
 
 1. M. J. S. Lowe, "Matrix techniques for modeling ultrasonic waves in multilayered media," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, 
-vol. 42, no. 4, pp. 525-542, July 1995.    http://www.disperse.software
+   vol. 42, no. 4, pp. 525-542, July 1995.    http://www.disperse.software
 
 2. Carlo G. Lai, Glenn J. Rix; Solution of the Rayleigh Eigenproblem in Viscoelastic Media. Bulletin of the Seismological Society of America 2002;; 92 (6): 2297–2309.
-   
-  Lai et.al. solved the Rayleigh wave eignvalue problem in viscoelastic media based on the argument principle from the calculus of residues.
+    Lai et.al. solved the Rayleigh wave eignvalue problem in viscoelastic media based on the argument principle from the calculus of residues.
 
 3. Michael Wayne Morrison, IN-SITU VISCOELASTIC SOIL PARAMETER ESTIMATION USING LOVE WAVE INVERSION. In the end of his dissertation, there are some matlab codes used for
-solve the Love wave eignvalue problem in viscoelastic media which is based on the argument principle from the calculus of residues. 
+   solve the Love wave eignvalue problem in viscoelastic media which is based on the argument principle from the calculus of residues. 
 
 4. Cao, Z., and H. Dong (2010). Attenuation dispersion of Love waves in a viscoelastic multilayered half-space, 2010 SEG Annual Meeting,OnePetro.  
 
@@ -26,7 +25,7 @@ solve the Love wave eignvalue problem in viscoelastic media which is based on th
    matlab app available:  https://github.com/adilorta/The-Dispersion-Box 
 
 6. Lei Pan, Shichuan Yuan, Xiaofei Chen; Modified Generalized R/T Coefficient Method for Surface‐Wave Dispersion‐Curve Calculation in Elastic and Viscoelastic Media. 
-Bulletin of the Seismological Society of America 2022;; 112 (5): 2280–2296. doi: https://doi.org/10.1785/0120210294
+   Bulletin of the Seismological Society of America 2022;; 112 (5): 2280–2296. doi: https://doi.org/10.1785/0120210294
 
 
 If you can share more other methods (codes, maybe more efficient and more rigorous mathematical processing) 
